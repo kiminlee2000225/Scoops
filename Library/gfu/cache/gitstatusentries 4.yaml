@@ -1,0 +1,1691 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2019-12-06T13:53:09.618-05:00
+  initializedAtString: 2019-12-06T13:53:08.069-05:00
+  entries:
+  - path: .collabignore
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/.collabignore
+    projectPath: .collabignore
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/background.prefab
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/background.prefab
+    projectPath: Assets/background.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/background.prefab.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/background.prefab.meta
+    projectPath: Assets/background.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/backgroundSmall.prefab
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/backgroundSmall.prefab
+    projectPath: Assets/backgroundSmall.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/backgroundSmall.prefab.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/backgroundSmall.prefab.meta
+    projectPath: Assets/backgroundSmall.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons.meta
+    projectPath: Assets/ColorfulButtons.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Close.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Close.png
+    projectPath: Assets/ColorfulButtons/Close.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Close.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Close.png.meta
+    projectPath: Assets/ColorfulButtons/Close.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Colorful Buttons.cdr
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Colorful Buttons.cdr
+    projectPath: Assets/ColorfulButtons/Colorful Buttons.cdr
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Colorful Buttons.cdr.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Colorful Buttons.cdr.meta
+    projectPath: Assets/ColorfulButtons/Colorful Buttons.cdr.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Credits.txt
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Credits.txt
+    projectPath: Assets/ColorfulButtons/Credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Credits.txt.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Credits.txt.meta
+    projectPath: Assets/ColorfulButtons/Credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Divide.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Divide.png
+    projectPath: Assets/ColorfulButtons/Divide.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Divide.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Divide.png.meta
+    projectPath: Assets/ColorfulButtons/Divide.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Facebook.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Facebook.png
+    projectPath: Assets/ColorfulButtons/Facebook.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Facebook.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Facebook.png.meta
+    projectPath: Assets/ColorfulButtons/Facebook.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/ForwardLeft.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/ForwardLeft.png
+    projectPath: Assets/ColorfulButtons/ForwardLeft.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/ForwardLeft.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/ForwardLeft.png.meta
+    projectPath: Assets/ColorfulButtons/ForwardLeft.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/ForwardRight.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/ForwardRight.png
+    projectPath: Assets/ColorfulButtons/ForwardRight.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/ForwardRight.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/ForwardRight.png.meta
+    projectPath: Assets/ColorfulButtons/ForwardRight.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/GamePad.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/GamePad.png
+    projectPath: Assets/ColorfulButtons/GamePad.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/GamePad.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/GamePad.png.meta
+    projectPath: Assets/ColorfulButtons/GamePad.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Google.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Google.png
+    projectPath: Assets/ColorfulButtons/Google.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Google.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Google.png.meta
+    projectPath: Assets/ColorfulButtons/Google.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Heart.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Heart.png
+    projectPath: Assets/ColorfulButtons/Heart.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Heart.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Heart.png.meta
+    projectPath: Assets/ColorfulButtons/Heart.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Home.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Home.png
+    projectPath: Assets/ColorfulButtons/Home.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Home.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Home.png.meta
+    projectPath: Assets/ColorfulButtons/Home.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Instagram.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Instagram.png
+    projectPath: Assets/ColorfulButtons/Instagram.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Instagram.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Instagram.png.meta
+    projectPath: Assets/ColorfulButtons/Instagram.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Left.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Left.png
+    projectPath: Assets/ColorfulButtons/Left.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Left.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Left.png.meta
+    projectPath: Assets/ColorfulButtons/Left.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Menu.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Menu.png
+    projectPath: Assets/ColorfulButtons/Menu.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Menu.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Menu.png.meta
+    projectPath: Assets/ColorfulButtons/Menu.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Message.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Message.png
+    projectPath: Assets/ColorfulButtons/Message.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Message.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Message.png.meta
+    projectPath: Assets/ColorfulButtons/Message.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Minus.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Minus.png
+    projectPath: Assets/ColorfulButtons/Minus.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Minus.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Minus.png.meta
+    projectPath: Assets/ColorfulButtons/Minus.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Music.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Music.png
+    projectPath: Assets/ColorfulButtons/Music.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Music.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Music.png.meta
+    projectPath: Assets/ColorfulButtons/Music.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Pause.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Pause.png
+    projectPath: Assets/ColorfulButtons/Pause.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Pause.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Pause.png.meta
+    projectPath: Assets/ColorfulButtons/Pause.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Play.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Play.png
+    projectPath: Assets/ColorfulButtons/Play.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Play.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Play.png.meta
+    projectPath: Assets/ColorfulButtons/Play.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Plus.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Plus.png
+    projectPath: Assets/ColorfulButtons/Plus.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Plus.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Plus.png.meta
+    projectPath: Assets/ColorfulButtons/Plus.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/PowerUp.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/PowerUp.png
+    projectPath: Assets/ColorfulButtons/PowerUp.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/PowerUp.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/PowerUp.png.meta
+    projectPath: Assets/ColorfulButtons/PowerUp.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Question.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Question.png
+    projectPath: Assets/ColorfulButtons/Question.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Question.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Question.png.meta
+    projectPath: Assets/ColorfulButtons/Question.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Retry.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Retry.png
+    projectPath: Assets/ColorfulButtons/Retry.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Retry.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Retry.png.meta
+    projectPath: Assets/ColorfulButtons/Retry.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Right.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Right.png
+    projectPath: Assets/ColorfulButtons/Right.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Right.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Right.png.meta
+    projectPath: Assets/ColorfulButtons/Right.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Settings.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Settings.png
+    projectPath: Assets/ColorfulButtons/Settings.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Settings.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Settings.png.meta
+    projectPath: Assets/ColorfulButtons/Settings.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Share.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Share.png
+    projectPath: Assets/ColorfulButtons/Share.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Share.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Share.png.meta
+    projectPath: Assets/ColorfulButtons/Share.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Shop.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Shop.png
+    projectPath: Assets/ColorfulButtons/Shop.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Shop.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Shop.png.meta
+    projectPath: Assets/ColorfulButtons/Shop.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/SoundOff.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/SoundOff.png
+    projectPath: Assets/ColorfulButtons/SoundOff.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/SoundOff.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/SoundOff.png.meta
+    projectPath: Assets/ColorfulButtons/SoundOff.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/SoundOn.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/SoundOn.png
+    projectPath: Assets/ColorfulButtons/SoundOn.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/SoundOn.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/SoundOn.png.meta
+    projectPath: Assets/ColorfulButtons/SoundOn.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Trash.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Trash.png
+    projectPath: Assets/ColorfulButtons/Trash.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Trash.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Trash.png.meta
+    projectPath: Assets/ColorfulButtons/Trash.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Trophy.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Trophy.png
+    projectPath: Assets/ColorfulButtons/Trophy.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/ColorfulButtons/Trophy.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/ColorfulButtons/Trophy.png.meta
+    projectPath: Assets/ColorfulButtons/Trophy.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/GameObjects.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/GameObjects.meta
+    projectPath: Assets/GameObjects.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/GameObjects/barrel.prefab
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/GameObjects/barrel.prefab
+    projectPath: Assets/GameObjects/barrel.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/GameObjects/barrel.prefab.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/GameObjects/barrel.prefab.meta
+    projectPath: Assets/GameObjects/barrel.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/GameObjects/Bullet.prefab
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/GameObjects/Bullet.prefab
+    projectPath: Assets/GameObjects/Bullet.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/GameObjects/Bullet.prefab.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/GameObjects/Bullet.prefab.meta
+    projectPath: Assets/GameObjects/Bullet.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Grid.prefab
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Grid.prefab
+    projectPath: Assets/Grid.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Grid.prefab.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Grid.prefab.meta
+    projectPath: Assets/Grid.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Materials.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Materials.meta
+    projectPath: Assets/Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Materials/WallMaterial.physicsMaterial2D
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Materials/WallMaterial.physicsMaterial2D
+    projectPath: Assets/Materials/WallMaterial.physicsMaterial2D
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Materials/WallMaterial.physicsMaterial2D.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Materials/WallMaterial.physicsMaterial2D.meta
+    projectPath: Assets/Materials/WallMaterial.physicsMaterial2D.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins.meta
+    projectPath: Assets/Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub.meta
+    projectPath: Assets/Plugins/GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor.meta
+    projectPath: Assets/Plugins/GitHub/Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/credits.txt
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/credits.txt
+    projectPath: Assets/Plugins/GitHub/Editor/credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/credits.txt.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/credits.txt.meta
+    projectPath: Assets/Plugins/GitHub/Editor/credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/eula.txt
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/eula.txt
+    projectPath: Assets/Plugins/GitHub/Editor/eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/eula.txt.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/eula.txt.meta
+    projectPath: Assets/Plugins/GitHub/Editor/eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.bundle
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/libsfw.bundle
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.so
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/libsfw.so
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/sfw.net.dll
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/sfw.net.dll
+    projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/System.Threading.dll
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/System.Threading.dll
+    projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/x64.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/x86.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Scenes.meta
+    projectPath: Assets/Scenes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/SampleScene.unity
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Scenes/SampleScene.unity
+    projectPath: Assets/Scenes/SampleScene.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/SampleScene.unity.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Scenes/SampleScene.unity.meta
+    projectPath: Assets/Scenes/SampleScene.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/WordBubble.unity
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Scenes/WordBubble.unity
+    projectPath: Assets/Scenes/WordBubble.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/WordBubble.unity.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Scenes/WordBubble.unity.meta
+    projectPath: Assets/Scenes/WordBubble.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Scripts.meta
+    projectPath: Assets/Scripts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/ballsBulletCollision.cs
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Scripts/ballsBulletCollision.cs
+    projectPath: Assets/Scripts/ballsBulletCollision.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/ballsBulletCollision.cs.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Scripts/ballsBulletCollision.cs.meta
+    projectPath: Assets/Scripts/ballsBulletCollision.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/BarrelRotation.cs
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Scripts/BarrelRotation.cs
+    projectPath: Assets/Scripts/BarrelRotation.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/BarrelRotation.cs.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Scripts/BarrelRotation.cs.meta
+    projectPath: Assets/Scripts/BarrelRotation.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/BulletHandler.cs
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Scripts/BulletHandler.cs
+    projectPath: Assets/Scripts/BulletHandler.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/BulletHandler.cs.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Scripts/BulletHandler.cs.meta
+    projectPath: Assets/Scripts/BulletHandler.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/GridLayout.cs
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Scripts/GridLayout.cs
+    projectPath: Assets/Scripts/GridLayout.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/GridLayout.cs.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Scripts/GridLayout.cs.meta
+    projectPath: Assets/Scripts/GridLayout.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/HexGrid.cs
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Scripts/HexGrid.cs
+    projectPath: Assets/Scripts/HexGrid.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/HexGrid.cs.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Scripts/HexGrid.cs.meta
+    projectPath: Assets/Scripts/HexGrid.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/SubmitWordHandler.cs
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Scripts/SubmitWordHandler.cs
+    projectPath: Assets/Scripts/SubmitWordHandler.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/SubmitWordHandler.cs.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Scripts/SubmitWordHandler.cs.meta
+    projectPath: Assets/Scripts/SubmitWordHandler.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/TurretHandler.cs
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Scripts/TurretHandler.cs
+    projectPath: Assets/Scripts/TurretHandler.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/TurretHandler.cs.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Scripts/TurretHandler.cs.meta
+    projectPath: Assets/Scripts/TurretHandler.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites.meta
+    projectPath: Assets/Sprites.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/A.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/A.png
+    projectPath: Assets/Sprites/A.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/A.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/A.png.meta
+    projectPath: Assets/Sprites/A.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Background.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Background.meta
+    projectPath: Assets/Sprites/Background.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Background/background.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Background/background.png
+    projectPath: Assets/Sprites/Background/background.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Background/background.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Background/background.png.meta
+    projectPath: Assets/Sprites/Background/background.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Background/textbubble-background1.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Background/textbubble-background1.png
+    projectPath: Assets/Sprites/Background/textbubble-background1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Background/textbubble-background1.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Background/textbubble-background1.png.meta
+    projectPath: Assets/Sprites/Background/textbubble-background1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters.meta
+    projectPath: Assets/Sprites/Letters.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/A-1.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/A-1.png
+    projectPath: Assets/Sprites/Letters/A-1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/A-1.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/A-1.png.meta
+    projectPath: Assets/Sprites/Letters/A-1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/B.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/B.png
+    projectPath: Assets/Sprites/Letters/B.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/B.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/B.png.meta
+    projectPath: Assets/Sprites/Letters/B.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/C.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/C.png
+    projectPath: Assets/Sprites/Letters/C.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/C.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/C.png.meta
+    projectPath: Assets/Sprites/Letters/C.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/D.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/D.png
+    projectPath: Assets/Sprites/Letters/D.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/D.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/D.png.meta
+    projectPath: Assets/Sprites/Letters/D.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/E.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/E.png
+    projectPath: Assets/Sprites/Letters/E.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/E.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/E.png.meta
+    projectPath: Assets/Sprites/Letters/E.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/F.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/F.png
+    projectPath: Assets/Sprites/Letters/F.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/F.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/F.png.meta
+    projectPath: Assets/Sprites/Letters/F.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/G.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/G.png
+    projectPath: Assets/Sprites/Letters/G.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/G.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/G.png.meta
+    projectPath: Assets/Sprites/Letters/G.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/H.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/H.png
+    projectPath: Assets/Sprites/Letters/H.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/H.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/H.png.meta
+    projectPath: Assets/Sprites/Letters/H.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/I.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/I.png
+    projectPath: Assets/Sprites/Letters/I.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/I.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/I.png.meta
+    projectPath: Assets/Sprites/Letters/I.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/J.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/J.png
+    projectPath: Assets/Sprites/Letters/J.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/J.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/J.png.meta
+    projectPath: Assets/Sprites/Letters/J.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/K.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/K.png
+    projectPath: Assets/Sprites/Letters/K.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/K.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/K.png.meta
+    projectPath: Assets/Sprites/Letters/K.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/L.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/L.png
+    projectPath: Assets/Sprites/Letters/L.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/L.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/L.png.meta
+    projectPath: Assets/Sprites/Letters/L.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/M.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/M.png
+    projectPath: Assets/Sprites/Letters/M.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/M.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/M.png.meta
+    projectPath: Assets/Sprites/Letters/M.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/N.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/N.png
+    projectPath: Assets/Sprites/Letters/N.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/N.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/N.png.meta
+    projectPath: Assets/Sprites/Letters/N.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/O.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/O.png
+    projectPath: Assets/Sprites/Letters/O.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/O.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/O.png.meta
+    projectPath: Assets/Sprites/Letters/O.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/P.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/P.png
+    projectPath: Assets/Sprites/Letters/P.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/P.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/P.png.meta
+    projectPath: Assets/Sprites/Letters/P.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/Q.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/Q.png
+    projectPath: Assets/Sprites/Letters/Q.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/Q.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/Q.png.meta
+    projectPath: Assets/Sprites/Letters/Q.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/R.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/R.png
+    projectPath: Assets/Sprites/Letters/R.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/R.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/R.png.meta
+    projectPath: Assets/Sprites/Letters/R.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/S.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/S.png
+    projectPath: Assets/Sprites/Letters/S.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/S.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/S.png.meta
+    projectPath: Assets/Sprites/Letters/S.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/T.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/T.png
+    projectPath: Assets/Sprites/Letters/T.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/T.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/T.png.meta
+    projectPath: Assets/Sprites/Letters/T.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/U.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/U.png
+    projectPath: Assets/Sprites/Letters/U.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/U.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/U.png.meta
+    projectPath: Assets/Sprites/Letters/U.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/V.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/V.png
+    projectPath: Assets/Sprites/Letters/V.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/V.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/V.png.meta
+    projectPath: Assets/Sprites/Letters/V.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/W.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/W.png
+    projectPath: Assets/Sprites/Letters/W.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/W.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/W.png.meta
+    projectPath: Assets/Sprites/Letters/W.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/X.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/X.png
+    projectPath: Assets/Sprites/Letters/X.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/X.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/X.png.meta
+    projectPath: Assets/Sprites/Letters/X.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/Y.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/Y.png
+    projectPath: Assets/Sprites/Letters/Y.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/Y.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/Y.png.meta
+    projectPath: Assets/Sprites/Letters/Y.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/Z.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/Z.png
+    projectPath: Assets/Sprites/Letters/Z.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Letters/Z.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Letters/Z.png.meta
+    projectPath: Assets/Sprites/Letters/Z.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/rudamentary-barrel.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/rudamentary-barrel.png
+    projectPath: Assets/Sprites/rudamentary-barrel.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/rudamentary-barrel.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/rudamentary-barrel.png.meta
+    projectPath: Assets/Sprites/rudamentary-barrel.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/scoop-full.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/scoop-full.png
+    projectPath: Assets/Sprites/scoop-full.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/scoop-full.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/scoop-full.png.meta
+    projectPath: Assets/Sprites/scoop-full.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/scoop-handle.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/scoop-handle.png
+    projectPath: Assets/Sprites/scoop-handle.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/scoop-handle.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/scoop-handle.png.meta
+    projectPath: Assets/Sprites/scoop-handle.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Untitled_Artwork.png
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Untitled_Artwork.png
+    projectPath: Assets/Sprites/Untitled_Artwork.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Untitled_Artwork.png.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/Sprites/Untitled_Artwork.png.meta
+    projectPath: Assets/Sprites/Untitled_Artwork.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/words_alpha.txt
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/words_alpha.txt
+    projectPath: Assets/words_alpha.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/words_alpha.txt.meta
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Assets/words_alpha.txt.meta
+    projectPath: Assets/words_alpha.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Packages/manifest.json
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/Packages/manifest.json
+    projectPath: Packages/manifest.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/AudioManager.asset
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/ProjectSettings/AudioManager.asset
+    projectPath: ProjectSettings/AudioManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/ClusterInputManager.asset
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/ProjectSettings/ClusterInputManager.asset
+    projectPath: ProjectSettings/ClusterInputManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/DynamicsManager.asset
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/ProjectSettings/DynamicsManager.asset
+    projectPath: ProjectSettings/DynamicsManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/EditorBuildSettings.asset
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/ProjectSettings/EditorBuildSettings.asset
+    projectPath: ProjectSettings/EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/EditorSettings.asset
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/ProjectSettings/EditorSettings.asset
+    projectPath: ProjectSettings/EditorSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/GraphicsSettings.asset
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/ProjectSettings/GraphicsSettings.asset
+    projectPath: ProjectSettings/GraphicsSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/InputManager.asset
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/ProjectSettings/InputManager.asset
+    projectPath: ProjectSettings/InputManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/NavMeshAreas.asset
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/ProjectSettings/NavMeshAreas.asset
+    projectPath: ProjectSettings/NavMeshAreas.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/Physics2DSettings.asset
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/ProjectSettings/Physics2DSettings.asset
+    projectPath: ProjectSettings/Physics2DSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/PresetManager.asset
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/ProjectSettings/PresetManager.asset
+    projectPath: ProjectSettings/PresetManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/ProjectSettings.asset
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/ProjectSettings/ProjectSettings.asset
+    projectPath: ProjectSettings/ProjectSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/ProjectVersion.txt
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/ProjectSettings/ProjectVersion.txt
+    projectPath: ProjectSettings/ProjectVersion.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/QualitySettings.asset
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/ProjectSettings/QualitySettings.asset
+    projectPath: ProjectSettings/QualitySettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/TagManager.asset
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/ProjectSettings/TagManager.asset
+    projectPath: ProjectSettings/TagManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/TimeManager.asset
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/ProjectSettings/TimeManager.asset
+    projectPath: ProjectSettings/TimeManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/UnityConnectSettings.asset
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/ProjectSettings/UnityConnectSettings.asset
+    projectPath: ProjectSettings/UnityConnectSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/VFXManager.asset
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/ProjectSettings/VFXManager.asset
+    projectPath: ProjectSettings/VFXManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/XRSettings.asset
+    fullPath: /Users/leevzkaplan/Documents/Personal/Artistic/Game-Dev/WordBubble-Project/WordBubble
+      (2)/ProjectSettings/XRSettings.asset
+    projectPath: ProjectSettings/XRSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
