@@ -70,20 +70,17 @@ public class HandleSubmit : MonoBehaviour
 
     }
 
+    // append letter to current word
     public void appendLetter(string l)
     {
         WORD += l;
         print(WORD);
     }
 
+    // add potential score to score
     public void addPotentialLetterScore(int currLetterScore)
     {
         potentialLetterScore += currLetterScore;
     }
-
-    //void Awake()
-    //{
-    //    DontDestroyOnLoad(this.gameObject);
-    //}
 
 }

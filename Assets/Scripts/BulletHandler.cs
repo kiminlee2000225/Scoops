@@ -27,14 +27,15 @@ public class BulletHandler : MonoBehaviour
     {
         if (this.collided == true)
         {
+            // Return bullet to original position after being collided. 
             if (this.transform.position != originalPosition)
             {
                 this.GetComponent<CircleCollider2D>().enabled = false;
                 float step = speed * Time.deltaTime;
-                //this.rb.transform.position = Vector2.MoveTowards(this.transform.position, originalPosition, step);
                 this.transform.position = Vector3.MoveTowards(this.transform.position, originalPosition, step);
 
             }
+            // Once the bullet is back to its original position, reset the bullet fields so that it is ready to be launched again. 
             else if (this.transform.position == originalPosition)
             {
                 this.GetComponent<CircleCollider2D>().enabled = true;
@@ -64,6 +65,7 @@ public class BulletHandler : MonoBehaviour
 
     }
 
+    // Return bullet to original position after hitting a ball. 
     void OnCollisionEnter2D(Collision2D col)
     {
         if (col.gameObject.tag == "Ball")

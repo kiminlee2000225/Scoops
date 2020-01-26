@@ -31,7 +31,7 @@ public class ballsBulletCollision : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D col)
     {
-        //int letterInt = 0;
+        // If the collision is a Bullet, add the letter of the bullet to the holding letters, to create a word. 
         if (col.gameObject.tag == "Bullet")
         {
             currLetterString = this.name;
@@ -40,12 +40,15 @@ public class ballsBulletCollision : MonoBehaviour
             // the bullet hasn't collided with any balls yet
             if (bullet.collided == false)
             {
-                //letterInt = this.findIndexOfLetter(currLetter);
                 Destroy(gameObject);
 
             }
+
+            // for testing purposes
             print(currLetterString);
             print(currChar);
+
+            // add the letter to the holding letters, and update the potential score for the letter. Reset the potential score as well. 
             GameObject.Find("_Manager").GetComponent<HandleSubmit>().appendLetter(currChar.ToString());
             GameObject.Find("_Manager").GetComponent<HandleSubmit>().addPotentialLetterScore(currLetterScore);
             currLetterScore = 0;
@@ -53,6 +56,7 @@ public class ballsBulletCollision : MonoBehaviour
         }
     }
 
+    // potential scores for each letters. 
     void setCurrLetter(string currLetterString)
     {
         switch(currLetterString)

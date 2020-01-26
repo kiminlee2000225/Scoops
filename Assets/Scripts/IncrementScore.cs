@@ -18,6 +18,7 @@ public class IncrementScore : MonoBehaviour
 
     }
 
+    // increment total score by the increment value.
     public void incrementScore(int increment)
     {
         totalScore = totalScore + increment;
